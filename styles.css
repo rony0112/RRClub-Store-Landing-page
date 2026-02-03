@@ -765,7 +765,9 @@ header nav ul li a:hover::after {
 }
 
 
-.modal 
+.modal {
+    
+}
 
 .modal-content {
     margin: 5% auto;                    
